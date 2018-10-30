@@ -1,6 +1,124 @@
 body {
     padding-top: 70px;
+    font-family: 'Montserrat', sans-serif;
 }
+
+div.hp-header-inner {
+          display:block;
+          height:200px;
+          position:relative;
+          padding-left: 0;
+          padding-right: 0;
+          margin: 0;
+          margin-top: -20px;
+        }
+
+div.hp-header-inner img{
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.hp-header-inner_1 {
+          display:block;
+          height:200px;
+          position:relative;
+          padding-left: 0;
+          padding-right: 0;
+          margin: 0;
+          margin-top: -70px;
+        }
+
+div.hp-header-inner_1 img{
+    display: block;
+    width: 100%;
+    max-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cust_sidebar{
+    background-color: #222C30;
+}
+
+.cust_cont{
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.cust_footer{
+    height: 155px;
+
+}
+
+.h4_ma{
+    margin-left: -22px;
+}
+        .entry-title5{
+          color:#D2AF2A; 
+          text-decoration: 3line-through; 
+          display:inline;"
+        }
+
+        .subparagraph_nav{
+            margin-left: -20px;
+        }
+
+        .subparagraph{
+          padding: 10px;
+          color:#D2AF2A;        
+          text-decoration:underline;
+          display: inline-block;
+        }
+
+        .blod_a:hover { 
+          color:#43535A;        
+          text-decoration:underline;
+        }
+
+        .blod_a{
+          padding-left: 10px;
+          color: #000;
+          font-weight: bold;
+          border-width: 0 0 0 5px;
+          border-style: solid;
+          border-color: #D2AF2A;
+        }
+
+        .nav_a{
+          padding: 10px;
+          color:#D2AF2A;        
+          text-decoration:underline;
+        }
+
+        .nav_blod_a:hover { 
+          color: #79858A;
+          text-decoration:underline;
+        }
+
+        .nav_blod_a{
+          padding-left: 10px;
+          color: #fff;
+          font-weight: bold;
+          border-width: 0 0 0 5px;
+          border-style: solid;
+          border-color: #D2AF2A;
+
+        }
+
+        p{
+            margin-top: 20px;
+        }
+
+        .active{
+            background-color: #e7e7e7;
+        }
+
+        .active_sidebar{
+            background-color: #777;
+        }
 
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;
